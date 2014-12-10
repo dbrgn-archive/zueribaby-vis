@@ -1,4 +1,4 @@
-# Zürich Geburtenrate Visualisierung
+# Zürich Geburtenrate 3D Visualisierung
 
 Dies ist eine druckbare 3D Visualisierung der Geburten pro Quartier in Zürich seit 1993.
 
@@ -23,4 +23,5 @@ Abhängigkeiten installieren
 
     $ openscad births.scad
 
-Von OpenSCAD kann das Modell nun als .stl exportiert werden.
+Von OpenSCAD kann das Modell nun als .stl exportiert werden. Dieses Format wird
+von den meisten 3D Druckern unterstützt und kann so einfach ausgedruckt werden.
